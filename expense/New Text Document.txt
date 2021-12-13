@@ -1,0 +1,2 @@
+This is Deafult level for most of the linux servers 
+But there is no gui for all other services
